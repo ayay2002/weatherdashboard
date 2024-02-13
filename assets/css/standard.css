@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(0, 0, 0);
+}
+
+:root {
+    --font-family: "Trirong", sans-serif;
+
+    --primary-color: 180, 170, 230;
+    --secondary-color: 126, 100, 216;
+    --black: 0, 0, 0;
+
+    --font-extra-small: 10px;
+    --font-small: 15px;
+    --font-medium: 18px;
+    --font-large: 24px;
+    --font-extra-large: 30px;
+
+    --font-color: rgb(255, 250, 250);
+
+    --moblie-brekpoint: 460px;
+    --tablet-brekpoint: 786px;
+    --tablet-landscape-brekpoint: 1028px;
+    --laptop-brekpoint: 1800px;
+
+  }
