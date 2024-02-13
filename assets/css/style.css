@@ -1,0 +1,26 @@
+
+
+
+@media screen and (max-width: 1014px) {
+    .week-day{
+        width:calc(33.33% - 10px);
+        margin: 6px;
+        border: 1px solid #CCC;
+    }
+}
+
+@media screen and (max-width: 766px) {
+    .week-day{
+        width:calc(50% - 10px);
+        margin: 6px;
+        border: 1px solid #CCC;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .week-day{
+        width:calc(100% - 10px);
+        margin: 6px;
+        border: 1px solid #CCC;
+    }
+}
