@@ -26,3 +26,21 @@
     --laptop-brekpoint: 1800px;
 
   }
+
+  @media  (max-width: 460px) {
+    :root {
+        --font-extra-small: 10px;
+        --font-small: 15px;
+        --font-medium: 18px;
+        --font-large: 24px;
+        --font-extra-large: 30px;
+    }
+
+  }
+
+  @media  (max-width: 768px) {
+    :root {
+      --font-medium: 18px;
+    }
+
+  }
